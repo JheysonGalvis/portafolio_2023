@@ -329,3 +329,9 @@ figure {
   height: inherit;
   flex-wrap: inherit;
 }
+#eventos{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
